@@ -1,1 +1,2 @@
 rootProject.name = 'springmvc'
+include 'springmvc', 'itemservice' //프로젝트의 디렉토리명을 적어줍니다.
